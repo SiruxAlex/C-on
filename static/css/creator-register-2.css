@@ -1,0 +1,1230 @@
+/* screen - keurieiteo-deungrog-2jeongboibryeog */
+
+.border-class-1 {
+  border: 1px solid var(--silver);
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.border-class-3 {
+  border: 1px solid var(--alto);
+}
+.border-class-4 {
+  border: 1px solid var(--scarlet);
+}
+.border-class-5 {
+  border: 1px solid rgba(112,112,112,1.0);
+}
+.font-class-1 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -1.30px;
+}
+.font-class-10 {
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -2.08px;
+  line-height: 32px;
+}
+.font-class-2 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+}
+.font-class-3 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+}
+.font-class-4 {
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  letter-spacing: -1.30px;
+}
+.font-class-5 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -1.56px;
+}
+.font-class-6 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -0.81px;
+  line-height: 18px;
+}
+.font-class-7 {
+  color: var(--fuscous-gray);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.97px;
+  line-height: 15px;
+}
+.font-class-8 {
+  color: var(--black);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -1.10px;
+  line-height: 17px;
+}
+.font-class-9 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -3.06px;
+  line-height: 47px;
+}
+.keurieiteo-deungrog-2jeongboibryeog {
+  background-color: var(--wild-sand);
+  height: 2257px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .byutiseutail-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 931px;
+  position: absolute;
+  text-align: center;
+  top: 1228px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .daepyoisa--s-reserved-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 405px;
+  letter-spacing: -0.38px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2101px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .deungrog-wanryo-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 1278px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .dongmul-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1186px;
+  position: absolute;
+  text-align: center;
+  top: 1228px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .enteoteinmeonteu-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 929px;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1316px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geim-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1186px;
+  position: absolute;
+  text-align: center;
+  top: 1316px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geulrobeol-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1386px;
+  position: absolute;
+  text-align: center;
+  top: 1404px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-106-l42Pxg {
+  background-color: transparent;
+  bottom: calc(26.48% - 3px);
+  height: 11px;
+  position: absolute;
+  right: calc(20.25% - 2px);
+  width: 10px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-107-l42Pxg {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(25.44% - 3px);
+  width: 44px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-108-l42Pxg {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-109-QB0GL1 {
+  background-color: transparent;
+  height: 60px;
+  left: calc(21.92% - 16px);
+  position: absolute;
+  top: calc(47.07% - 28px);
+  width: 73px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-116-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-118-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 1450px;
+  position: absolute;
+  top: 954px;
+  width: 23px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .geurub-119-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 1450px;
+  position: absolute;
+  top: 1036px;
+  width: 23px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .gita-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1186px;
+  position: absolute;
+  text-align: center;
+  top: 842px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .hwaldong-bunya-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 1212px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .hwaldong-peulraespom-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 738px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .ijeon-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 745px;
+  letter-spacing: -1.82px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1780px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .imeileul-i-yeoghaseyo-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 710px;
+  letter-spacing: -0.12px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1596px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .inseutageuraem-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1152px;
+  position: absolute;
+  text-align: center;
+  top: 754px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .it-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 776px;
+  position: absolute;
+  text-align: center;
+  top: 1316px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .jeongbo-ibryeog-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 898px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .jeongbo-ibryeog-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1099px;
+  letter-spacing: -1.82px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1780px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .jeonmungajisig-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1143px;
+  position: absolute;
+  text-align: center;
+  top: 1404px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .jungboghwagin-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1383px;
+  letter-spacing: -1.95px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .jungboghwagin-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1383px;
+  letter-spacing: -1.95px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1593px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-deungrog-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  height: auto;
+  left: 814px;
+  position: absolute;
+  text-align: left;
+  top: 192px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-deungrog-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(38.27% - 53px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-makes-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(29.07% - 40px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-myeong-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-senteo-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(36.00% - 18px);
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 50px;
+  left: calc(29.90% - 74px);
+  letter-spacing: -2.34px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .keurieiteo-yeoghaseyo-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 710px;
+  letter-spacing: -0.12px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .maipeiji-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(21.67% - 21px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .neibeo-beulrogeu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 722px;
+  position: absolute;
+  text-align: left;
+  top: 1036px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .neibeo-beulrogeu-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 926px;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 842px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paemilri-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 963px;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1404px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-164-s1Wm3U {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-165-l42Pxg {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(48.73% - 9px);
+  position: absolute;
+  width: 19px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-166-l42Pxg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: 26px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-167-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 4px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-168-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-169-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: calc(34.59% - 2px);
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-170-8xrTN1 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: calc(48.26% - 2px);
+  top: 1px;
+  width: 4px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-171-8xrTN1 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(37.51% - 1px);
+  top: 0px;
+  width: 2px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-172-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: calc(20.85% - 1px);
+  width: 7px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-173-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-174-Uv1gYP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-178-UpxBol {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-178-irDVpH {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-179-UpxBol {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.keurieiteo-deungrog-2jeongboibryeog .paeseu-179-irDVpH {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+.keurieiteo-deungrog-2jeongboibryeog .peiseubug-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 739px;
+  position: absolute;
+  text-align: center;
+  top: 842px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .pudeu-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 762px;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1228px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .rosdesyopi-jusighoesa-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 2039px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .saeobjadeu-rog-hwagin-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 475px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-110-C61RwL {
+  background-color: var(--white);
+  height: 487px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-147-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 127px;
+  left: 785px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-15-QB0GL1 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-150-C61RwL {
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  height: 127px;
+  left: 405px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-151-C61RwL {
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  height: 127px;
+  left: 1165px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-152-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 537px;
+  width: 635px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-172-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 10px;
+  height: 96px;
+  left: 975px;
+  position: absolute;
+  top: 1745px;
+  width: 350px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-173-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 96px;
+  left: 595px;
+  position: absolute;
+  top: 1745px;
+  width: 350px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-175-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 37px;
+  height: 70px;
+  left: 690px;
+  position: absolute;
+  top: 731px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-176-C61RwL {
+  background-color: var(--alto);
+  height: 74px;
+  left: 1355px;
+  position: absolute;
+  top: 537px;
+  width: 160px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-177-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 902px;
+  position: absolute;
+  top: 731px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-178-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1114px;
+  position: absolute;
+  top: 731px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-179-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1326px;
+  position: absolute;
+  top: 731px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-180-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 690px;
+  position: absolute;
+  top: 819px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-181-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 37px;
+  height: 70px;
+  left: 902px;
+  position: absolute;
+  top: 819px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-182-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1114px;
+  position: absolute;
+  top: 819px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-183-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 929px;
+  width: 825px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-184-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1011px;
+  width: 825px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-185-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 690px;
+  position: absolute;
+  top: 1293px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-186-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 37px;
+  height: 70px;
+  left: 902px;
+  position: absolute;
+  top: 1293px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-187-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1114px;
+  position: absolute;
+  top: 1293px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-188-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 37px;
+  height: 70px;
+  left: 690px;
+  position: absolute;
+  top: 1205px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-189-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 902px;
+  position: absolute;
+  top: 1205px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-190-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1114px;
+  position: absolute;
+  top: 1205px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-191-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1326px;
+  position: absolute;
+  top: 1205px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-192-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1325px;
+  position: absolute;
+  top: 1293px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-193-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 690px;
+  position: absolute;
+  top: 1381px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-194-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 37px;
+  height: 70px;
+  left: 902px;
+  position: absolute;
+  top: 1381px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-195-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1114px;
+  position: absolute;
+  top: 1381px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-196-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 70px;
+  left: 1325px;
+  position: absolute;
+  top: 1381px;
+  width: 190px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-197-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1571px;
+  width: 635px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-198-C61RwL {
+  background-color: var(--alto);
+  height: 74px;
+  left: 1355px;
+  position: absolute;
+  top: 1571px;
+  width: 160px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .sagaghyeong-85-C61RwL {
+  background-color: var(--charade);
+  height: 264px;
+  left: 0px;
+  position: absolute;
+  top: 1993px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-2jeongboibryeog .seupoceu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1386px;
+  position: absolute;
+  text-align: center;
+  top: 1316px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .step-01-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 26px;
+  height: auto;
+  left: 533px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .step-02-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-size: 26px;
+  height: auto;
+  left: 913px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 332px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .step-03-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 26px;
+  height: auto;
+  left: 1293px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .teuwici-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 963px;
+  position: absolute;
+  text-align: center;
+  top: 754px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .tigtog-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1398px;
+  position: absolute;
+  text-align: center;
+  top: 754px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .urleul-ibryeoghaseyo-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 850px;
+  letter-spacing: -0.12px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 954px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .urleul-ibryeoghaseyo-VMr6Om {
+  background-color: transparent;
+  color: var(--star-dust);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 914px;
+  letter-spacing: -0.12px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1036px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .x-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 813px;
+  letter-spacing: -1.95px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 947px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .x-VMr6Om {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 879px;
+  letter-spacing: -1.95px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1029px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .yeohaeng-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 762px;
+  position: absolute;
+  text-align: center;
+  top: 1404px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .yeonragceo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 1592px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .yesul-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1398px;
+  position: absolute;
+  text-align: center;
+  top: 1228px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .yutyubeu-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 751px;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 754px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-2jeongboibryeog .yutyubeu-VMr6Om {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 722px;
+  position: absolute;
+  text-align: left;
+  top: 954px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --alto: rgba(219,219,219,1.0);
+  --black: rgba(0,0,0,1.0);
+  --charade: rgba(43,49,55,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --fuscous-gray: rgba(83,83,83,1.0);
+  --scarlet: rgba(255,42,12,1.0);
+  --silver: rgba(188,188,188,1.0);
+  --star-dust: rgba(157,157,157,1.0);
+  --white: rgba(255,255,255,1.0);
+  --wild-sand: rgba(243,244,248,1.0);
+}

@@ -1,0 +1,1084 @@
+/* screen - keurieiteo-senteo-mein */
+
+.border-class-1 {
+  border: 1px solid var(--silver);
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.border-class-3 {
+  border: 1px solid var(--alto);
+}
+.border-class-4 {
+  border: 1px solid var(--scarlet);
+}
+.border-class-5 {
+  border: 1px solid rgba(112,112,112,1.0);
+}
+.font-class-1 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -1.30px;
+}
+.font-class-10 {
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -2.08px;
+  line-height: 32px;
+}
+.font-class-2 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+}
+.font-class-3 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+}
+.font-class-4 {
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  letter-spacing: -1.30px;
+}
+.font-class-5 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -1.56px;
+}
+.font-class-6 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -0.81px;
+  line-height: 18px;
+}
+.font-class-7 {
+  color: var(--fuscous-gray);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.97px;
+  line-height: 15px;
+}
+.font-class-8 {
+  color: var(--black);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -1.10px;
+  line-height: 17px;
+}
+.font-class-9 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -3.06px;
+  line-height: 47px;
+}
+.keurieiteo-senteo-mein {
+  background-color: var(--wild-sand);
+  height: 2800px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .bangaun-ke-oeeoboseyo-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 693px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 722px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .beongeorou-npyeonhage-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 694px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1432px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .c-on-keuri-ungroghagi-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  height: auto;
+  left: 840px;
+  position: absolute;
+  text-align: left;
+  top: 1186px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .c-ongwa-ha-aenghaseyo-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 26px;
+  height: auto;
+  left: 405px;
+  letter-spacing: -1.69px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 362px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .c-oni-ceoeumisingayo-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 430px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 833px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .cong-300ye-annaboseyo-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 24px;
+  height: auto;
+  left: 678px;
+  letter-spacing: -2.34px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 1546px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .convenience-on-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 798px;
+  letter-spacing: -0.48px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1029px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .creative-on-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1165px;
+  letter-spacing: -0.48px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1029px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .creators-on-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 430px;
+  letter-spacing: -0.48px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 1029px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .daepyoisa--s-reserved-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 405px;
+  letter-spacing: -0.38px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2644px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .faq-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1195px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2025px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .geurub-106-l42Pxg {
+  background-color: transparent;
+  bottom: calc(26.48% - 3px);
+  height: 11px;
+  position: absolute;
+  right: calc(20.25% - 2px);
+  width: 10px;
+}
+.keurieiteo-senteo-mein .geurub-107-l42Pxg {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(25.44% - 3px);
+  width: 44px;
+}
+.keurieiteo-senteo-mein .geurub-108-l42Pxg {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.keurieiteo-senteo-mein .geurub-109-QB0GL1 {
+  background-color: transparent;
+  height: 60px;
+  left: calc(21.92% - 16px);
+  position: absolute;
+  top: calc(47.07% - 28px);
+  width: 73px;
+}
+.keurieiteo-senteo-mein .geurub-110-BikkCP {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 40px;
+}
+.keurieiteo-senteo-mein .geurub-111-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/---11@1x.png);
+  background-size: 100% 100%;
+  height: 162px;
+  left: 500px;
+  position: absolute;
+  top: 1670px;
+  width: 160px;
+}
+.keurieiteo-senteo-mein .geurub-112-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/---11@1x.png);
+  background-size: 100% 100%;
+  height: 162px;
+  left: 690px;
+  position: absolute;
+  top: 1670px;
+  width: 160px;
+}
+.keurieiteo-senteo-mein .geurub-113-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/---11@1x.png);
+  background-size: 100% 100%;
+  height: 162px;
+  left: 880px;
+  position: absolute;
+  top: 1670px;
+  width: 160px;
+}
+.keurieiteo-senteo-mein .geurub-114-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/---11@1x.png);
+  background-size: 100% 100%;
+  height: 162px;
+  left: 1070px;
+  position: absolute;
+  top: 1670px;
+  width: 160px;
+}
+.keurieiteo-senteo-mein .geurub-115-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/---11@1x.png);
+  background-size: 100% 100%;
+  height: 162px;
+  left: 1260px;
+  position: absolute;
+  top: 1670px;
+  width: 160px;
+}
+.keurieiteo-senteo-mein .geurub-116-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .geurub-153-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 1379px;
+  position: absolute;
+  top: 1423px;
+  width: 151px;
+}
+.keurieiteo-senteo-mein .gongjisahang-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 420px;
+  letter-spacing: -1.95px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2024px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .gunggeumje-sipdamyeon-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 808px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2078px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .jaju-mudne-mhadamyeon-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1195px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2078px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .kal-visual-k-unsplash-C61RwL {
+  background-color: transparent;
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .keomyuniti-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 808px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2024px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-deungrog-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 390px;
+  letter-spacing: -2.86px;
+  line-height: 44px;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-deungrog-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(38.27% - 53px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-senteo-mein .keurieiteo-gaegsenteo-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 405px;
+  letter-spacing: -1.82px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 2320px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-gjiseutoeo-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 430px;
+  letter-spacing: -1.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1068px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-makes-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 390px;
+  letter-spacing: -2.86px;
+  line-height: 44px;
+  position: absolute;
+  text-align: left;
+  top: 1420px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-makes-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(29.07% - 40px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-senteo-mein .keurieiteo-mhadamyeon-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 420px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2078px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .keurieiteo-senteo-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(36.00% - 18px);
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 50px;
+  left: calc(29.90% - 74px);
+  letter-spacing: -2.34px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+.keurieiteo-senteo-mein .logogopro-6En8vB {
+  background-color: transparent;
+  height: 64px;
+  left: 7px;
+  position: absolute;
+  top: calc(50.00% - 32px);
+  width: calc(100.00% - 14px);
+}
+.keurieiteo-senteo-mein .logojomalone-t4cO87 {
+  background-color: transparent;
+  height: 79px;
+  left: 16px;
+  position: absolute;
+  top: calc(49.40% - 39px);
+  width: calc(100.00% - 32px);
+}
+.keurieiteo-senteo-mein .logomontblanc-xpuoh0 {
+  background-color: transparent;
+  height: 50px;
+  position: absolute;
+  right: calc(42.42% - 40px);
+  top: calc(48.21% - 24px);
+  width: 94px;
+}
+.keurieiteo-senteo-mein .logoprada-VZTojr {
+  background-color: transparent;
+  height: 18px;
+  left: 20px;
+  position: absolute;
+  top: calc(50.00% - 9px);
+  width: calc(100.00% - 40px);
+}
+.keurieiteo-senteo-mein .logosk-ii-zsJ8uk {
+  background-color: transparent;
+  height: 32px;
+  left: calc(50.00% - 38px);
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 76px;
+}
+.keurieiteo-senteo-mein .maipeiji-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(21.67% - 21px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+.keurieiteo-senteo-mein .makes-barogagi-BikkCP {
+  background-color: transparent;
+  bottom: calc(13.64% - 4px);
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 200;
+  height: 29px;
+  left: 0px;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+.keurieiteo-senteo-mein .marks-of-m-0-unsplash-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 100px;
+  left: 798px;
+  position: absolute;
+  top: 903px;
+  width: 325px;
+}
+.keurieiteo-senteo-mein .nyu-rosdew-peulreoseu-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .paeseu-164-s1Wm3U {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-senteo-mein .paeseu-165-l42Pxg {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(48.73% - 9px);
+  position: absolute;
+  width: 19px;
+}
+.keurieiteo-senteo-mein .paeseu-166-l42Pxg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 26px;
+}
+.keurieiteo-senteo-mein .paeseu-167-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 4px;
+}
+.keurieiteo-senteo-mein .paeseu-168-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-senteo-mein .paeseu-169-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: calc(34.59% - 2px);
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-senteo-mein .paeseu-170-8xrTN1 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: calc(48.26% - 2px);
+  top: 1px;
+  width: 4px;
+}
+.keurieiteo-senteo-mein .paeseu-171-8xrTN1 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(37.51% - 1px);
+  top: 0px;
+  width: 2px;
+}
+.keurieiteo-senteo-mein .paeseu-172-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: calc(20.85% - 1px);
+  width: 7px;
+}
+.keurieiteo-senteo-mein .paeseu-173-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+.keurieiteo-senteo-mein .paeseu-174-Uv1gYP {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-senteo-mein .paeseu-175-WifirQ {
+  background-color: transparent;
+  bottom: calc(48.45% - 9px);
+  height: 18px;
+  position: absolute;
+  right: calc(49.69% - 5px);
+  width: 10px;
+}
+.keurieiteo-senteo-mein .pyeongil-0-yuil-hyumu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2378px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .riccardo-a-m-unsplash-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 100px;
+  left: 1165px;
+  position: absolute;
+  top: 903px;
+  width: 325px;
+}
+.keurieiteo-senteo-mein .rosde-ones-ar-syoping-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 798px;
+  letter-spacing: -1.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1068px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .rosdesyopi-jusighoesa-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 2582px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .sagaghyeong-101-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 146px;
+  left: 390px;
+  position: absolute;
+  top: 1987px;
+  width: 365px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-102-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 146px;
+  left: 1165px;
+  position: absolute;
+  top: 1987px;
+  width: 365px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-103-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 146px;
+  left: 778px;
+  position: absolute;
+  top: 1987px;
+  width: 365px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-104-C61RwL {
+  background-color: var(--white);
+  height: 303px;
+  left: 0px;
+  position: absolute;
+  top: 2233px;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-105-C61RwL {
+  background-color: var(--white);
+  border-radius: 40px;
+  height: 80px;
+  left: 1260px;
+  position: absolute;
+  top: 2368px;
+  width: 255px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-106-C61RwL {
+  background-color: rgba(0,0,0,0.412);
+  height: 600px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-107-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 10px;
+  height: 14px;
+  left: 405px;
+  position: absolute;
+  top: 546px;
+  width: 76px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-108-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 14px;
+  left: 493px;
+  position: absolute;
+  top: 546px;
+  width: 30px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-109-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 14px;
+  left: 535px;
+  position: absolute;
+  top: 546px;
+  width: 30px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-15-QB0GL1 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.keurieiteo-senteo-mein .sagaghyeong-85-C61RwL {
+  background-color: var(--charade);
+  height: 264px;
+  left: 0px;
+  position: absolute;
+  top: 2536px;
+  width: 1920px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-94-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 505px;
+  left: 390px;
+  position: absolute;
+  top: 785px;
+  width: 1140px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-98-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 110px;
+  left: 777px;
+  position: absolute;
+  top: 1146px;
+  width: 367px;
+}
+.keurieiteo-senteo-mein .sagaghyeong-99-C61RwL {
+  background-color: var(--white);
+  border-radius: 20px;
+  height: 392px;
+  left: 390px;
+  position: absolute;
+  top: 1495px;
+  width: 1140px;
+}
+.keurieiteo-senteo-mein .sam-mcghee-o-unsplash-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 100px;
+  left: 430px;
+  position: absolute;
+  top: 903px;
+  width: 325px;
+}
+.keurieiteo-senteo-mein .sonswiun-k-eukeil-eob-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1165px;
+  letter-spacing: -1.10px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1068px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .span0-9bQOQT {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.56px;
+}
+.keurieiteo-senteo-mein .span0-gVHjkW {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: 0.00px;
+}
+.keurieiteo-senteo-mein .span0-xmJZDR {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-senteo-mein .span1-9bQOQT {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.keurieiteo-senteo-mein .span1-gVHjkW {
+  color: rgba(255,255,255,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 200;
+}
+.keurieiteo-senteo-mein .span1-xmJZDR {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.60px;
+}
+.keurieiteo-senteo-mein .span2-9bQOQT {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.56px;
+}
+.keurieiteo-senteo-mein .span2-xmJZDR {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-senteo-mein .span3-9bQOQT {
+  color: rgba(255,42,12,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.keurieiteo-senteo-mein .span4-9bQOQT {
+  color: rgba(255,42,12,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.keurieiteo-senteo-mein .span5-9bQOQT {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.keurieiteo-senteo-mein .x11-munyihagi-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1329px;
+  position: absolute;
+  text-align: left;
+  top: 2396px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-senteo-mein .x1599-2020-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 405px;
+  letter-spacing: -1.60px;
+  line-height: 64px;
+  position: absolute;
+  text-align: left;
+  top: 2378px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --alto: rgba(219,219,219,1.0);
+  --black: rgba(0,0,0,1.0);
+  --charade: rgba(43,49,55,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --fuscous-gray: rgba(83,83,83,1.0);
+  --scarlet: rgba(255,42,12,1.0);
+  --silver: rgba(188,188,188,1.0);
+  --star-dust: rgba(157,157,157,1.0);
+  --white: rgba(255,255,255,1.0);
+  --wild-sand: rgba(243,244,248,1.0);
+}

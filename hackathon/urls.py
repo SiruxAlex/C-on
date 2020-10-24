@@ -15,7 +15,20 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from lotteon.views import *
 
 urlpatterns = [
     path('wtfisthewinner/', admin.site.urls),
+    path('creator-center-main/', CCmain.as_view()),
+    path('creator-market-ad-complete/', CMAcomplete.as_view()),
+    path('creator-market-ad-proposal/', CMAproposal.as_view()),
+    path('creator-market-detail/', CMdetail.as_view()),
+    path('creator-market-detail-1/', CMdetail1.as_view()),
+    path('creator-market-main/', CMmain.as_view()),
+    path('creator-market-main-1/', CMmain1.as_view()),
+    path('creator-market-mypage/', CMmypage.as_view()),
+    path('creator-market-register-1/', CR1.as_view()),
+    path('creator-market-register-2/', CR2.as_view()),
+    path('creator-market-register-3/', CR3.as_view()),
+
 ]

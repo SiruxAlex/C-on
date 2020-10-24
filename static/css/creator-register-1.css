@@ -1,0 +1,1002 @@
+/* screen - keurieiteo-deungrog-1saeobjadeungrog */
+
+.border-class-1 {
+  border: 1px solid var(--silver);
+}
+.border-class-2 {
+  border: 1px solid var(--black);
+}
+.border-class-3 {
+  border: 1px solid var(--alto);
+}
+.border-class-4 {
+  border: 1px solid var(--scarlet);
+}
+.border-class-5 {
+  border: 1px solid rgba(112,112,112,1.0);
+}
+.font-class-1 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -1.30px;
+}
+.font-class-10 {
+  color: var(--black);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -2.08px;
+  line-height: 32px;
+}
+.font-class-2 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.56px;
+  line-height: 24px;
+}
+.font-class-3 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -1.30px;
+  line-height: 20px;
+}
+.font-class-4 {
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  letter-spacing: -1.30px;
+}
+.font-class-5 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -1.56px;
+}
+.font-class-6 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+  letter-spacing: -0.81px;
+  line-height: 18px;
+}
+.font-class-7 {
+  color: var(--fuscous-gray);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 15px;
+  letter-spacing: -0.97px;
+  line-height: 15px;
+}
+.font-class-8 {
+  color: var(--black);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 24px;
+  letter-spacing: -1.10px;
+  line-height: 17px;
+}
+.font-class-9 {
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -3.06px;
+  line-height: 47px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog {
+  background-color: var(--wild-sand);
+  height: 2097px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .daepyoisa--s-reserved-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 405px;
+  letter-spacing: -0.38px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1941px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .deungrog-wanryo-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 1278px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .gaeinjeong-ngyi-pilsu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1114px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .geurub-106-l42Pxg {
+  background-color: transparent;
+  bottom: calc(26.48% - 3px);
+  height: 11px;
+  position: absolute;
+  right: calc(20.25% - 2px);
+  width: 10px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .geurub-107-l42Pxg {
+  background-color: transparent;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  top: calc(25.44% - 3px);
+  width: 44px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .geurub-108-l42Pxg {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .geurub-109-QB0GL1 {
+  background-color: transparent;
+  height: 60px;
+  left: calc(21.92% - 16px);
+  position: absolute;
+  top: calc(47.07% - 28px);
+  width: 73px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .geurub-116-C61RwL {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .goyusigbye-ngyi-pilsu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1186px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .ijeon-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 745px;
+  letter-spacing: -1.82px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1620px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .iyongyaggwan-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 706px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .jeoncedongyi-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  height: auto;
+  left: 785px;
+  position: absolute;
+  text-align: left;
+  top: 717px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .jeongbo-ibryeog-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 200;
+  height: auto;
+  left: 898px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .keurieiteo-deungrog-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  height: auto;
+  left: 814px;
+  position: absolute;
+  text-align: left;
+  top: 192px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .keurieiteo-deungrog-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(38.27% - 53px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .keurieiteo-gwan-pilsu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 792px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .keurieiteo-makes-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(29.07% - 40px);
+  text-align: left;
+  white-space: nowrap;
+  width: 138px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .keurieiteo-senteo-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(36.00% - 18px);
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: 50px;
+  left: calc(29.90% - 74px);
+  letter-spacing: -2.34px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 248px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .maipeiji-QB0GL1 {
+  background-color: transparent;
+  bottom: calc(44.37% - 13px);
+  color: var(--white);
+  font-size: 20px;
+  height: 29px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(21.67% - 21px);
+  text-align: left;
+  white-space: nowrap;
+  width: 97px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-164-s1Wm3U {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-165-l42Pxg {
+  background-color: transparent;
+  bottom: 2px;
+  height: 22px;
+  left: calc(48.73% - 9px);
+  position: absolute;
+  width: 19px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-166-l42Pxg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: 26px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-167-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  width: 4px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-168-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-169-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  left: calc(34.59% - 2px);
+  position: absolute;
+  width: 7px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-170-8xrTN1 {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  position: absolute;
+  right: calc(48.26% - 2px);
+  top: 1px;
+  width: 4px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-171-8xrTN1 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(37.51% - 1px);
+  top: 0px;
+  width: 2px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-172-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: calc(20.85% - 1px);
+  width: 7px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-173-8xrTN1 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 8px;
+  position: absolute;
+  right: 0px;
+  width: 7px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-174-Uv1gYP {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-176-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 951px;
+  position: absolute;
+  top: 574px;
+  width: 18px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .paeseu-177-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 1236px;
+  position: absolute;
+  top: 574px;
+  width: 18px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .panmaehoew--sahangeul-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Noto Sans CJK KR", Helvetica, Arial, serif;
+  font-size: 24px;
+  height: auto;
+  left: 776px;
+  letter-spacing: -1.17px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 862px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .rosdemembe-gwan-pilsu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1260px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .rosdemembe-gwan-pilsu-VMr6Om {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1332px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .rosdemembe-gwan-pilsu-mzXdH9 {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1406px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .rosdemembe-ngyi-pilsu-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 20px;
+  height: auto;
+  left: 785px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1478px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .rosdesyopi-jusighoesa-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 1879px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .saeobja-de-grogbeonho-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 405px;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .saeobja-injeung-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1087px;
+  letter-spacing: -1.82px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1620px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .saeobjadeu-rog-hwagin-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 475px;
+  letter-spacing: -2.21px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-110-C61RwL {
+  background-color: var(--white);
+  height: 487px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-147-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 127px;
+  left: 405px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-15-QB0GL1 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-150-C61RwL {
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  height: 127px;
+  left: 785px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-151-C61RwL {
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  height: 127px;
+  left: 1165px;
+  position: absolute;
+  top: 305px;
+  width: 350px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-152-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 537px;
+  width: 255px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-153-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 975px;
+  position: absolute;
+  top: 537px;
+  width: 255px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-154-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 1260px;
+  position: absolute;
+  top: 537px;
+  width: 255px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-155-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 691px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-156-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 716px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-157-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 764px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-158-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 789px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-159-C61RwL {
+  background-color: var(--wild-sand);
+  height: 250px;
+  left: 690px;
+  position: absolute;
+  top: 837px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-160-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1086px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-161-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1111px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-162-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1159px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-163-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1184px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-164-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1232px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-165-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1257px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-166-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1305px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-167-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1330px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-168-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1378px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-169-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1403px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-170-C61RwL {
+  background-color: var(--white);
+  height: 74px;
+  left: 690px;
+  position: absolute;
+  top: 1451px;
+  width: 825px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-171-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 24px;
+  left: 731px;
+  position: absolute;
+  top: 1476px;
+  width: 24px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-172-C61RwL {
+  background-color: var(--scarlet);
+  border-radius: 10px;
+  height: 96px;
+  left: 975px;
+  position: absolute;
+  top: 1585px;
+  width: 350px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-173-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 96px;
+  left: 595px;
+  position: absolute;
+  top: 1585px;
+  width: 350px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-174-C61RwL {
+  background-color: var(--fuscous-gray);
+  border-radius: 9px;
+  height: 47px;
+  left: 1487px;
+  position: absolute;
+  top: 853px;
+  width: 12px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .sagaghyeong-85-C61RwL {
+  background-color: var(--charade);
+  height: 264px;
+  left: 0px;
+  position: absolute;
+  top: 1833px;
+  width: 1920px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-BlL6Ix {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -1.56px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-I3EbxJ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-W0rNDq {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-ZSg0Tv {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-dH94bA {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-hbzauf {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-waGRPF {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span0-xeZtnR {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-BlL6Ix {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 200;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-I3EbxJ {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-W0rNDq {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-ZSg0Tv {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-dH94bA {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-hbzauf {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-waGRPF {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .span1-xeZtnR {
+  color: rgba(83,83,83,1.0);
+  font-family: 'Noto Sans CJK KR', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -1.30px;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .step-01-C61RwL {
+  background-color: transparent;
+  color: var(--scarlet);
+  font-size: 26px;
+  height: auto;
+  left: 533px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 332px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .step-02-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 26px;
+  height: auto;
+  left: 913px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .step-03-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  font-size: 26px;
+  height: auto;
+  left: 1293px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .x2jari-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 995px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .x3jari-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 710px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.keurieiteo-deungrog-1saeobjadeungrog .x5jari-C61RwL {
+  background-color: transparent;
+  color: var(--fuscous-gray);
+  height: auto;
+  left: 1280px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --alto: rgba(219,219,219,1.0);
+  --black: rgba(0,0,0,1.0);
+  --charade: rgba(43,49,55,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --fuscous-gray: rgba(83,83,83,1.0);
+  --scarlet: rgba(255,42,12,1.0);
+  --silver: rgba(188,188,188,1.0);
+  --star-dust: rgba(157,157,157,1.0);
+  --white: rgba(255,255,255,1.0);
+  --wild-sand: rgba(243,244,248,1.0);
+}
