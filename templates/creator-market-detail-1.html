@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,9 +7,12 @@
     <link rel="shortcut icon" href="./img/favicon.png" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/keurieiteo-makes-diteil-1.css" />
+    <link rel="stylesheet" type="text/css" href="{% static 'css/creator-market-detail-1.css' %}" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+     @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
       .anima-component-wrapper a,
       .anima-screen a {
         text-decoration: none;
@@ -177,58 +181,69 @@
     <input type="hidden" id="anPageName" name="page" value="keurieiteo-makes-diteil-1" />
     <div class="anima-container-center-horizontal">
       <div class="keurieiteo-makes-diteil-1 anima-screen">
-        <img class="seukeurins--ohu-91540-C61RwL" src="img/-----------2020-10-22------9-15-40@1x.png" />
-        <img class="sam-mcghee-o-unsplash-C61RwL" src="img/sam-mcghee-kieclnzkobo-unsplash@1x.png" />
+        <img class="seukeurins--ohu-91540-C61RwL" src="{% static 'img/-----------2020-10-22------9-15-40@1x.png' %}" />
+        <img class="sam-mcghee-o-unsplash-C61RwL" src="{% static 'img/sam-mcghee-kieclnzkobo-unsplash@1x.png' %}" />
         <div class="sagaghyeong-145-C61RwL"></div>
         <div class="keurieiteo-makes-C61RwL font-class-9">크리에이터 마켓</div>
         <div class="sagaghyeong-112-C61RwL"></div>
         <div class="geomsaegeo-yeoghaseyo-C61RwL font-class-5">검색어를 입력하세요</div>
-        <img class="sagaghyeong-146-C61RwL" src="img/----146@1x.png" />
+        <img class="sagaghyeong-146-C61RwL" src="{% static "img/----146@1x.png" %}" />
         <div class="geurub-117-C61RwL">
-          <img class="paeseu-2-Q3wxQj" src="img/---2@1x.png" />
+          <img class="paeseu-2-Q3wxQj" src="{% static "img/---2@1x.png" %}" />
           <div class="sagaghyeong-90-Q3wxQj"></div>
         </div>
-        <img class="taweon-33-C61RwL" src="img/---33@1x.png" />
+        <img class="taweon-33-C61RwL" src="{% static "img/---33@1x.png" %}" />
         <div class="sagaghyeong-201-C61RwL"></div>
         <div class="sagaghyeong-202-C61RwL"></div>
         <div class="sagaghyeong-203-C61RwL"></div>
-        <div class="ar-C61RwL">AR</div>
+        <!-- ar toggle -->
+        <div class="ar-C61RwL" id="toggleAR" data-toggle="modal" data-target="#exampleModal">AR</div>
+        <!---->
         <div class="keurieiteo-aginhaseyo-C61RwL">크리에이터 등록 후 할인된 가격을 확인하세요</div>
         <div class="gyeyag-si--wadoebnida-C61RwL">(계약 시 적용된 성과를 초과할 경우 인센티브가 부과됩니다.)</div>
         <div class="beulraegpe-eopaemilri-C61RwL">블랙<br />플래티넘<br />골드<br />실버<br />패밀리</div>
         <div class="x5045353025-C61RwL">50%<br />45%<br />35%<br />30%<br />25%</div>
         <div class="seiljeogyong-gijun-C61RwL">세일적용 기준</div>
         <div class="geurub-116-C61RwL">
-          <img class="sagaghyeong-15-QB0GL1" src="img/----15@1x.png" />
+          <img class="sagaghyeong-15-QB0GL1" src="{% static "img/----15@1x.png" %}" />
           <div class="geurub-109-QB0GL1">
-            <div class="geurub-106-l42Pxg"><img class="paeseu-164-s1Wm3U" src="img/---164@1x.png" /></div>
-            <img class="paeseu-165-l42Pxg" src="img/---165@1x.png" />
-            <img class="paeseu-166-l42Pxg" src="img/---166@1x.png" />
+            <div class="geurub-106-l42Pxg"><img class="paeseu-164-s1Wm3U" src="{% static "img/---164@1x.png" %}" /></div>
+            <img class="paeseu-165-l42Pxg" src="{% static "img/---165@1x.png" %}" />
+            <img class="paeseu-166-l42Pxg" src="{% static "img/---166@1x.png" %}" />
             <div class="geurub-107-l42Pxg">
-              <img class="paeseu-167-8xrTN1" src="img/---167@1x.png" />
-              <img class="paeseu-168-8xrTN1" src="img/---168@1x.png" />
-              <img class="paeseu-169-8xrTN1" src="img/---169@1x.png" />
-              <img class="paeseu-170-8xrTN1" src="img/---170@1x.png" />
-              <img class="paeseu-171-8xrTN1" src="img/---171@1x.png" />
-              <img class="paeseu-172-8xrTN1" src="img/---172@1x.png" />
-              <img class="paeseu-173-8xrTN1" src="img/---173@1x.png" />
+              <img class="paeseu-167-8xrTN1" src="{% static "img/---167@1x.png" %}" />
+              <img class="paeseu-168-8xrTN1" src="{% static "img/---168@1x.png" %}" />
+              <img class="paeseu-169-8xrTN1" src="{% static "img/---169@1x.png" %}" />
+              <img class="paeseu-170-8xrTN1" src="{% static "img/---170@1x.png" %}" />
+              <img class="paeseu-171-8xrTN1" src="{% static "img/---171@1x.png" %}" />
+              <img class="paeseu-172-8xrTN1" src="{% static "img/---172@1x.png" %}"/>
+              <img class="paeseu-173-8xrTN1" src="{% static "img/---173@1x.png" %}"/>
             </div>
-            <div class="geurub-108-l42Pxg"><img class="paeseu-174-Uv1gYP" src="img/---174@1x.png" /></div>
+            <div class="geurub-108-l42Pxg"><img class="paeseu-174-Uv1gYP" src="{% static "img/---174@1x.png" %}"% /></div>
           </div>
           <div class="keurieiteo-senteo-QB0GL1">크리에이터 센터</div>
           <div class="keurieiteo-deungrog-QB0GL1 font-class-1">크리에이터 등록</div>
           <div class="keurieiteo-makes-QB0GL1 font-class-1">크리에이터 마켓</div>
           <div class="maipeiji-QB0GL1 font-class-1">마이페이지</div>
         </div>
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <a href="javascript:history.back()"> <div class="sagaghyeong-205-C61RwL"></div></a>
-        <img class="sagaghyeong-206-C61RwL" src="img/----206@1x.png" />
+        <img class="sagaghyeong-206-C61RwL" src="{% static 'img/----206@1x.png' %}" />
         <a href="javascript:history.back()">
           <div class="geurub-155-C61RwL">
-            <img class="paeseu-178-xQkCkU" src="img/---178@1x.png" />
-            <img class="paeseu-179-xQkCkU" src="img/---179@1x.png" /></div
-        ></a>
-        <div class="arnaeyong-C61RwL">~AR내용~</div>
+            <img class="paeseu-178-xQkCkU" src="{% static "img/---178@1x.png" %}" />
+            <img class="paeseu-179-xQkCkU" src="{% static "img/---179@1x.png"  %}" />
+          </div>
+        </a>
+        <div class="arnaeyong-C61RwL">
+        <!-- ar -->
+        </div>
+        </div>
       </div>
     </div>
+    
+  <!-- jQuery and JS bundle w/ Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
   </body>
 </html>
