@@ -26,8 +26,8 @@ SECRET_KEY = 't4n@z3-qb4or*p!jrdjw0hr-9g4u3ti)lsop=a%*-+mmz)&=+c'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http:/127.0.0.1:8000',
-    'localhost:8000',
+    '127.0.0.1',
+    'localhost',
     'c-on-env-real.eba-ztzgssri.us-west-2.elasticbeanstalk.com',
 ]
 
