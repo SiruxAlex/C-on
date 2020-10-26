@@ -9,25 +9,35 @@ https://docs.djangoproject.com/en/3.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.1/ref/settings/
 """
-import os
+import os, json
+from django.core.exceptions import ImproperlyConfigured
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+confidentials = os.path.join(BASE_DIR, "credentials.json")
+
+with open(confidentials) as f:
+    keys = json.loads(f.read())
+
+def load_key(setting, keys=keys):
+    try:
+        return keys[setting]
+    except KeyError:
+        error_msg = "Set the {} environment variable.".format(setting)
+        raise ImproperlyConfigured(error_msg)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 't4n@z3-qb4or*p!jrdjw0hr-9g4u3ti)lsop=a%*-+mmz)&=+c'
+SECRET_KEY = load_key("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
-    '127.0.0.1',
-    'localhost',
     'c-on-env-real.eba-ztzgssri.us-west-2.elasticbeanstalk.com',
 ]
 
@@ -123,4 +133,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static') ]
+STATIC_ROOT = '/static/'
+# STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static') ]

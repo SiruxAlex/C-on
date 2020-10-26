@@ -131,7 +131,7 @@ dmypy.json
 #personal
 myvenv/
 .md
-.json
+credentials.json
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
